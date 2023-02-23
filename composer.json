@@ -1,0 +1,7 @@
+{
+    "require": {
+        "econea/nusoap": "^0.9.11",
+        "twbs/bootstrap": "^5.1",
+        "twbs/bootstrap-icons": "^1.8"
+    }
+}

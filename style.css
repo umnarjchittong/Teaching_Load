@@ -1,0 +1,98 @@
+body {
+    font-family: 'Kanit', sans-serif;
+    font-size: 1rem;
+    background-color: #333;
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    text-decoration: underline;
+    /* font-weight: bold; */
+    color: gray;
+}
+
+.page_header {
+    padding: 1.5em 0em 1em 0em;
+    margin-bottom: 1.2em;
+    text-align: center;
+    background-color: #489fff;
+    border-radius: 20px;
+    color: white;
+}
+
+.page_header_main {
+    padding: 1.5em 0em 1em 0em;
+    margin-bottom: 1.5em;
+    text-align: center;
+    background-color: #cfaa16;
+    border-radius: 20px;
+    color: white;
+    font-size: 1em;
+    /* color: black; */
+}
+
+.page_header_teacher {
+    padding: 1.5em 0em 1em 0em;
+    margin-bottom: 1.5em;
+    text-align: center;
+    background-color: #335bca;
+    border-radius: 20px;
+    color: white;
+    font-size: 1em;
+}
+
+.page_header_teacher_ext {
+    padding: 1.5em 0em 1em 0em;
+    margin-bottom: 1.5em;
+    text-align: center;
+    background-color: #c430b2;
+    border-radius: 20px;
+    color: white;
+    font-size: 1em;
+}
+
+.page_header_course {
+    padding: 1.5em 0em 1em 0em;
+    margin-bottom: 1.5em;
+    text-align: center;
+    background-color: #61b1b8;
+    border-radius: 10px;
+    color: white;
+    font-size: 1em;
+}
+
+.page_header_zero_course {
+    padding: 1.5em 0em 1em 0em;
+    margin-bottom: 1.5em;
+    text-align: center;
+    background-color: #616db8;
+    border-radius: 10px;
+    color: white;
+    font-size: 1em;
+}
+
+.page_container_form {
+    font-size: 0.8em;
+}
+
+.lbl_required {
+    color: red;
+    font-weight: bold;
+}
+
+.box_shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tr_contents {
+    font-size: 0.8em;
+}
+
+.menu_active {
+    color: #c86840;
+}

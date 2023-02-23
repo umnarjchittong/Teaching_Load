@@ -1,0 +1,48 @@
+body {
+    font-family: 'Kanit', sans-serif;
+    size: 0.95rem;
+    background-color: #000;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    text-decoration: underline;
+    /* font-weight: bold; */
+    color: gray;
+}
+
+.page_header {
+    padding: 1.5em 0em 1em 0em;
+    margin-bottom: 1.5em;
+    text-align: center;
+    background-color: #489fff;
+    border-radius: 20px;
+    color: white;
+}
+
+.page_header_main {
+    padding: 1.5em 0em 1em 0em;
+    margin-bottom: 1.5em;
+    text-align: center;
+    background-color: #c86840;
+    border-radius: 20px;
+    color: white;
+}
+
+.page_header_course {
+    padding: 1.5em 0em 1em 0em;
+    margin-bottom: 1.5em;
+    text-align: center;
+    background-color: #6cb398;
+    border-radius: 20px;
+    color: white;
+}
+
+.lbl_required {
+    color: red;
+    font-weight: bold;
+}
